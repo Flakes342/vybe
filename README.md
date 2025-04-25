@@ -1,1 +1,1 @@
-# vybe
+# VYBE — Your Personal AI Music Scout
